@@ -1,0 +1,18 @@
+# Eclipse / STS
+.metadata/
+.settings/
+.classpath
+.project
+
+# Maven
+**/target/
+
+# IDE
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Ignore Kafka practice service
+kafka-order-service/
